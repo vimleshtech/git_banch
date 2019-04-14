@@ -1,0 +1,100 @@
+
+	github.com/vimleshtech/java_with_selenium
+
+
+
+Selenium: is a Automation framework and library 
+=====================================================
+API : Application Programing interface (jar files)
+	https://www.seleniumhq.org/download/
+
+Component Selenium:
+	-WebDriver		: Scripting
+				-JUnit
+				-TestNG
+				-DataDriven
+				-KeyDriven
+				-Hybrid
+				
+				-Maven 
+
+		
+
+	-RC/Grid		: Multiple browser testing
+				
+
+	-Selenium IDE 		: is plugin for record and play 
+
+	
+Git and GitHub
+Jenkins : build and deployment
+
+Java Editions:
+	-J2SE  	: java 2 standard edition / core java  **
+
+	-J2EE
+	-J2ME / Android
+	-Frameworks
+		-Hibernate
+		-Spring
+		-Struts
+		etc.
+
+
+
+Java and Selenium Environment Setup
+====================================
+-JDK : Java development kit
+	Version:
+		12
+		11
+		10
+		1.9
+		1.8
+		1.6   > 
+		1.5
+		etc.
+
+-Editor:  Eclipse
+		-Jet   
+		-Oxygen
+		-Neon
+		-Mars
+		-Juno
+		etc.
+-Selenium API (library)
+
+-WebDriver 
+		-Chrome Driver
+		-Firfox driver 
+		etc.
+
+		
+
+
+
+Java Project's Structure
+============================
+BasicJava
+	-JRE		: java runtime environment  / library 
+	-src		: source code
+		package 	: is collection of classes 
+			class.java  : source code 
+
+
+
+Keywords
+==============================
+package		: is reference current module or folder
+public		: is access specifier / scope (can be access from anywhere)
+class		: is wrapper of data member and function 
+static
+void
+main
+String
+int
+etc.
+
+
+;		: close/teminate the every line 
+
